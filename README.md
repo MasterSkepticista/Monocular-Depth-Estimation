@@ -18,6 +18,7 @@ Sample Results: Trained on NVIDIA Tesla K80 (14GB VRAM); 3 epochs, bs 6, 4 hours
 ## Output
 
 ![Output Depth Maps](sample_out_snap.PNG)
+
 Notice that since the distribution of input dataset belongs to indoors, it performs reasonably well on indoors. 
 
 
